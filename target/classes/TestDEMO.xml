@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Project8PM" verbose="1" >
+  <test name="FunctionalTestCycle1e" >
+    <classes>
+       <class name="com.TestNGScripts.WikiTestCase" />
+    </classes>
+  </test>
+  
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Project8PM]" parallel="none">
+  <test name="FunctionalTestCycle1e">
+    <classes>
+      <class name="com.TestNGScripts.WikiTestCase"/>
+    </classes>
+  </test> <!-- FunctionalTestCycle1e -->
+</suite> <!-- Failed suite [Project8PM] -->

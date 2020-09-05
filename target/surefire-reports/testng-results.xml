@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="8PMproject" duration-ms="30755" started-at="2020-09-03T01:20:08Z" finished-at="2020-09-03T01:20:39Z">
+    <groups>
+    </groups>
+    <test name="Selenium scripts" duration-ms="30755" started-at="2020-09-03T01:20:08Z" finished-at="2020-09-03T01:20:39Z">
+      <class name="com.TestNGScripts.ParameterizationwithPOI_instructor">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:com.TestNGScripts.ParameterizationwithPOI_instructor@19dc67c2]" name="startbrowser" is-config="true" duration-ms="8363" started-at="2020-09-03T01:20:08Z" finished-at="2020-09-03T01:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TestNGScripts.ParameterizationwithPOI_instructor@19dc67c2]" name="wikipagedata" duration-ms="6946" started-at="2020-09-03T01:20:18Z" data-provider="inputxlsx" finished-at="2020-09-03T01:20:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vbsmairindia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lb1@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TestNGScripts.ParameterizationwithPOI_instructor@19dc67c2]" name="wikipagedata" duration-ms="6894" started-at="2020-09-03T01:20:25Z" data-provider="inputxlsx" finished-at="2020-09-03T01:20:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[unitedonein]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ps1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ps1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lb2@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+        <test-method status="PASS" signature="wikipagedata(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.TestNGScripts.ParameterizationwithPOI_instructor@19dc67c2]" name="wikipagedata" duration-ms="6853" started-at="2020-09-03T01:20:32Z" data-provider="inputxlsx" finished-at="2020-09-03T01:20:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gorilla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pasword456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password456]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Lb3@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipagedata -->
+      </class> <!-- com.TestNGScripts.ParameterizationwithPOI_instructor -->
+    </test> <!-- Selenium scripts -->
+  </suite> <!-- 8PMproject -->
+</testng-results>

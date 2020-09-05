@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  <!-- -in and xml we will have only 1 suite tag -->
+<suite name="8PMproject" verbose="1" >
+  <test name="Selenium Sripts" >
+    <classes>
+       <class name="com.TestNGScripts.WikiTestCase"/>
+    </classes>
+  </test>
+ 
+ 
+</suite>
+
